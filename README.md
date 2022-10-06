@@ -1,3 +1,3 @@
 # some-important-codes
-Kudos guys
+Kudos guys,
 In this repo i upload some important codes related to placement and interviews
